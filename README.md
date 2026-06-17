@@ -3,7 +3,9 @@
 > Extreme Value Theory and Operational Loss Capital Estimation
 
 Author: Patrick Lefler
+
 Published: 2026-06-17
+
 Rendered:
 
 ## Project Introduction

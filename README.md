@@ -6,7 +6,7 @@ Author: Patrick Lefler
 
 Published: 2026-06-17
 
-Rendered:
+Rendered: https://patrick-lefler.github.io/rQuarto_EVT_operational_loss_2026-06-17/
 
 ## Project Introduction
 

@@ -9,7 +9,7 @@ format:
     code-fold: true
     code-copy: true
     code-overflow: wrap
-    code-tools: false
+    code-tools: true
     code-summary: "Display code"
     df-print: kable
     embed-math: true
